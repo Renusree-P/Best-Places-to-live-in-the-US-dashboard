@@ -39,5 +39,11 @@ The datasets were collected from various sources like United States Environmenta
 - This dashboard is built to facilitate interactive and dynamic visualization.
 
 #### Limitations
+- Real-time data: The datasets used for this dashboard project belong to a specific year. The data is not real-time. So, if the dashboard is to be used for a different year, again the datasets of the required year are to be sourced and prepreocessed again.
+- Scope: This dashboard considers only the factors for which the data is avaliable. So the effect of remaining important qualitative factors is not captured.
+  
 #### Future Work
+- Expanded inclusion of factors: Additional important factors like education quality, precipitation etc are to be incorporated.
+- Real time data integration - Real-time data integration can be done to keep the dashboard updated.
+- User feedback - There must be a mechanism to gather timely user feedback and make the nescessary improvements.
   
