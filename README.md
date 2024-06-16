@@ -7,7 +7,9 @@
    - [User-Friendly Interface](#user-friendly-interface)
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
-- 
+- [Limitations])(#limitations)
+- [Future Work](#future-work)
+  
 #### Overview
 The "Best Places to live in the US" project is a dashboard which acts as an analytical tool to evaluate and compare various cities in the United States based on different criteria according to the user. This project aim is to help users make decisions about which place to select based on Purchasing power Index, Health care index, Cost of Living index, Rent index, temperature, Crime rate, Tax rate, Air Quality index.
 
@@ -31,4 +33,11 @@ The datasets were collected from various sources like United States Environmenta
 - Temperature dataset - [Download](https://www.currentresults.com/Weather/US/average-annual-state-temperatures.php)
   
 #### Methodology
+- This project uses data processing techniques to  clean the data and normalize the data.
+- The dashboard is made using Excel
+- The dashboard is constructed using various functionalities of excel like XLOOKUPs, Macros, Slicer, Excel charts, conditional formatting, Pivot tables, Power Query, Power pivot, 3D Maps.
+- This dashboard is built to facilitate interactive and dynamic visualization.
+
+#### Limitations
+#### Future Work
   
