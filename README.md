@@ -20,7 +20,7 @@ The "Best Places to live in the US" project is a dashboard which acts as an anal
    The dashboard must be easily understandable and accessible to any novice user and provode a seamless experience.
 
 #### Data Sources
-The datasets were collected from various sources like United States Environmental Protection Agency, Numbeo, Statista.com
+The datasets were collected from various sources like United States Environmental Protection Agency, Numbeo, Statista.com, currentresults.com
 - Traffic dataset - [Download](https://www.numbeo.com/traffic/country_result.jsp?country=United+States)
 - Health care dataset - [Download](https://www.numbeo.com/health-care/country_result.jsp?country=United+States)
 - Air Quality dataset - [Download](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Daily)
