@@ -12,6 +12,8 @@ The "Best Places to live in the US" project is a dashboard which acts as an anal
 - #### Data Integration
    Combine various datasources to create a single comprehensive dataset that has different factors influencing the users decision to choose a city for living.
 - #### Interactive Analysis
+   Develop an interactive dashboard that allows the user to identify the factors according to their prefernce and allocate weights to different factors as per their preference.
 - #### User-friendly Interface
+   The dashboard must be easily understandable and accessible to any novice user and provode a seamless experience.
   
   
