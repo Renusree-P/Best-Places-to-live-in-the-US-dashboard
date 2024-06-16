@@ -20,5 +20,7 @@ The "Best Places to live in the US" project is a dashboard which acts as an anal
    The dashboard must be easily understandable and accessible to any novice user and provode a seamless experience.
 
 #### Data Sources
+- Traffic dataset - [Download](https://www.numbeo.com/traffic/country_result.jsp?country=United+States)
+- 
 #### Methodology
   
