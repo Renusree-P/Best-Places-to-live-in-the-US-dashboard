@@ -7,7 +7,7 @@
    - [User-Friendly Interface](#user-friendly-interface)
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
-- [Limitations])(#limitations)
+- [Limitations](#limitations)
 - [Future Work](#future-work)
   
 #### Overview
